@@ -5,7 +5,7 @@ This is a demonstration project for https://github.com/valentinnodan/mdx-intelli
 - Open  `src/pages/test.mdx`
 - Type `<Header` and use auto-completion
 
-The resulting file:
+The resulting file - the import should be located under the frontmatter.
 
 ~~~
 import Header from "../components/header";
